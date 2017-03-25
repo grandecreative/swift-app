@@ -1,11 +1,20 @@
-//: Playground - noun: a place where people can play
+var a = 6
+var b = 3
 
-import UIKit
+a + b
+a - b
+a * b
 
-var str = "Hello, playground"
-//print(str)
+var c = a * b + 400
 
-var myNumber = 1
-myNumber = myNumber+1
-myNumber = myNumber+1
-//test
+100/20
+
+100/21
+
+5.0 / 8.0
+
+var age = 27 //int
+
+var weight = 187.56 //double
+
+age * Int(weight)
